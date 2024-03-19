@@ -34,7 +34,7 @@ const App = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            detect changes
+            Vite Docs
           </a>
         </p>
       </header>
